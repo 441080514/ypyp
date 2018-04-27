@@ -1,0 +1,74 @@
+2018-04-27T00:39:19.142Z - normal: Load ~/.CocosCreator/settings.json
+2018-04-27T00:39:19.148Z - normal: checking language setting...
+2018-04-27T00:39:19.148Z - normal: Language: zh
+2018-04-27T00:39:21.719Z - success: protocol editor-framework registered
+2018-04-27T00:39:21.719Z - success: protocol app registered
+2018-04-27T00:39:21.720Z - success: protocol theme registered
+2018-04-27T00:39:21.720Z - success: protocol packages registered
+2018-04-27T00:39:21.720Z - success: protocol unpack registerred
+2018-04-27T00:39:21.720Z - success: protocol disable-commonjs registerred
+2018-04-27T00:39:21.728Z - error: { Error: getaddrinfo ENOENT creator-api.cocos.com:443
+    at Object.exports._errnoException (util.js:1050:11)
+    at errnoException (dns.js:33:15)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:73:26)
+  code: 'ENOENT',
+  errno: 'ENOENT',
+  syscall: 'getaddrinfo',
+  hostname: 'creator-api.cocos.com',
+  host: 'creator-api.cocos.com',
+  port: 443 }
+    at D:\coco\CocosCreator\resources\app.asar\share\login\lib\user.js:1:1441
+    at ClientRequest.Https.request.on.e (D:\coco\CocosCreator\resources\app.asar\share\login\lib\network.js:1:873)
+    at emitOne (events.js:96:13)
+    at ClientRequest.emit (events.js:191:7)
+    at TLSSocket.socketErrorListener (_http_client.js:358:9)
+    at emitOne (events.js:96:13)
+    at TLSSocket.emit (events.js:191:7)
+    at connectErrorNT (net.js:1032:8)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+2018-04-27T00:39:21.735Z - normal: failed to connect login server... skipping login
+2018-04-27T00:39:21.736Z - normal: Check project E:\大三下\游戏开发\摘星星\start_project
+2018-04-27T00:39:21.740Z - normal: Initializing Cocos2d
+2018-04-27T00:39:22.109Z - normal: Initializing Asset Database
+2018-04-27T00:39:22.211Z - success: protocol uuid registerred
+2018-04-27T00:39:22.212Z - success: protocol db registerred
+2018-04-27T00:39:22.212Z - success: protocol thumbnail registerred
+2018-04-27T00:39:22.212Z - normal: Loading editor/builtin packages
+2018-04-27T00:39:22.247Z - success: anysdk loaded
+2018-04-27T00:39:22.459Z - success: assets loaded
+2018-04-27T00:39:22.462Z - success: builder loaded
+2018-04-27T00:39:22.465Z - success: cocos-analytics loaded
+2018-04-27T00:39:22.469Z - success: console loaded
+2018-04-27T00:39:22.531Z - success: fb-instant-games loaded
+2018-04-27T00:39:22.536Z - success: hierarchy loaded
+2018-04-27T00:39:22.539Z - success: inspector loaded
+2018-04-27T00:39:22.541Z - success: keystore loaded
+2018-04-27T00:39:22.545Z - success: node-library loaded
+2018-04-27T00:39:22.547Z - success: package-asset loaded
+2018-04-27T00:39:22.550Z - success: preferences loaded
+2018-04-27T00:39:22.552Z - success: project-exporter loaded
+2018-04-27T00:39:22.577Z - success: project-importer loaded
+2018-04-27T00:39:22.580Z - success: project-settings loaded
+2018-04-27T00:39:22.586Z - success: ui-kit loaded
+2018-04-27T00:39:22.588Z - success: ui-grid loaded
+2018-04-27T00:39:22.593Z - success: scene loaded
+2018-04-27T00:39:22.595Z - success: sprite-editor loaded
+2018-04-27T00:39:22.599Z - success: store loaded
+2018-04-27T00:39:22.605Z - success: timeline loaded
+2018-04-27T00:39:22.606Z - normal: Loading builtin packages
+2018-04-27T00:39:22.609Z - success: asset-db-debugger loaded
+2018-04-27T00:39:22.611Z - success: code-editor loaded
+2018-04-27T00:39:22.612Z - success: color-picker loaded
+2018-04-27T00:39:22.615Z - success: package-manager loaded
+2018-04-27T00:39:22.622Z - success: sdkbox loaded
+2018-04-27T00:39:22.625Z - success: tester loaded
+2018-04-27T00:39:22.627Z - success: ui-kit-preview-extra loaded
+2018-04-27T00:39:22.629Z - success: ui-kit-preview loaded
+2018-04-27T00:39:22.631Z - success: ui-tree loaded
+2018-04-27T00:39:24.470Z - normal: Initializing project E:\大三下\游戏开发\摘星星\start_project
+2018-04-27T00:39:24.474Z - normal: Loading packages
+2018-04-27T00:39:24.480Z - normal: Watching packages
+2018-04-27T00:39:24.501Z - normal: Run Application
+2018-04-27T00:39:25.583Z - success: preview server running at http://localhost:7456
+2018-04-27T00:39:35.098Z - normal: 1.9.0
+2018-04-27T02:01:02.959Z - info: shutdown preview server
